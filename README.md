@@ -20,7 +20,7 @@ This example works with PHP 7.4 and later. You can run it inside Docker (then it
 1. set the environment variables NARAKEET_API_KEY and PPTX_FILE
 2. execute `php main.php`
 
-### example presentation
+### example presentation
 
 You can use the `demo.pptx` file in this directory as a quick example. Execute 
 
